@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "studentName": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "mobileNumber": "9876543210",
+    "branch": "Computer Science & Engineering",
+    "regNumber": "REG20261001",
+    "registeredAt": "2026-08-01 10:30 AM"
+  },
+  {
+    "id": 2,
+    "studentName": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "mobileNumber": "9812345678",
+    "branch": "Data Science & AI",
+    "regNumber": "REG20261002",
+    "registeredAt": "2026-08-02 02:15 PM"
+  },
+  {
+    "id": 3,
+    "studentName": "Rohan Verma",
+    "email": "rohan.verma@example.com",
+    "mobileNumber": "9988776655",
+    "branch": "Electronics & Communication",
+    "regNumber": "REG20261003",
+    "registeredAt": "2026-08-03 11:45 AM"
+  },
+  {
+    "id": 4,
+    "studentName": "Ananya Reddy",
+    "email": "ananya.reddy@example.com",
+    "mobileNumber": "9765432109",
+    "branch": "Information Technology",
+    "regNumber": "REG20261004",
+    "registeredAt": "2026-08-04 04:20 PM"
+  }
+]
